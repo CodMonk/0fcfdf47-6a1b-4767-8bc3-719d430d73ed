@@ -15,6 +15,8 @@ A Node.js application that visualizes carbon and diesel savings data from CSV fi
 - SQLite database for efficient data storage
 - REST APIs for data retrieval
 
+<img width="1107" height="862" alt="image" src="https://github.com/user-attachments/assets/4abe9945-7aba-41d1-ac05-938356c882d1" />
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
